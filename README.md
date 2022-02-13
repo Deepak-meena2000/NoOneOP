@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoOneOP
+- 👋 Hi, I’m @Deepak-meena2000
 - 👀 I’m interested in Software Development, Front-End Development , Back-End Development , React-Native.
 - 🌱 I’m currently learning React-Native using monorepos
 - 💞️ I’m looking to collaborate on React-native , Front-end Development and Back-end,
